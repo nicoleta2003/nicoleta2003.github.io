@@ -1,9 +1,9 @@
 <!DOCTYPE html >
 <html >
 <head><title>Pagină personala
-</title><style>
-color="blue" 
-front-size=26px</style></head>
+</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <body>
 <p>Aceasta este pagina mea personala</p>
 
