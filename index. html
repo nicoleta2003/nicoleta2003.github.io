@@ -1,14 +1,26 @@
 <!DOCTYPE html >
 <html >
 <head><title>Pagină personala
-</title></head>
+</title><style>
+color="blue" 
+front-size=26px</style></head>
 <body>
 <p>Aceasta este pagina mea personala</p>
 
+<p>Aici voi posta seriale destinate adolescenților și adulților. </p>
+
+<ul>
 
 
+<li>Kiralik Ask </li><a href =https://m.imdb.com/title/tt4787052/?ref_=fn_al_tt_0>Apăsați aici! </a>
 
-</body>
+
+<li>Kuzgun </li><a href=https://m.imdb.com/title/tt9529500/>Apăsați aici! </a>
+
+
+<li>Anne </li><a href=https://m.imdb.com/title/tt0246430/?ref_=fn_al_tt_0>Apăsați aici! </a>
+
+</ul></body>
 
 
 
