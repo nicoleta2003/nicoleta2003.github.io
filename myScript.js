@@ -6,8 +6,7 @@ alert("De ce apeși,mă??) ;
 } 
 function mesaj3() {
 Let intrebare=prompt(" Ești minor? ") ;
-document.getElementById("vârstă") 
-
+document.getElementById("vârstă"). innerHTML=intrebare;
 
 
 } 
